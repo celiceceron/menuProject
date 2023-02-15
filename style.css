@@ -40,11 +40,9 @@ body {
     height: 500px;
     margin: 10px auto;
     overflow: scroll;
+    color: red;
   }
-  
-  .content body{
-    margin: auto center;
-  }
+
   
   /* Content Header */
   
@@ -71,6 +69,7 @@ body {
   
   .content .body {
     width: 90%;
+    margin: auto;
   }
   
   .body p {
